@@ -15,15 +15,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gab-cat&color=58a6ff&style=flat-square&label=Profile+Views)
 
 ---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-cat&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gab-cat&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=gab-cat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
   </div>
 </div>
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-cat&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-cat&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
