@@ -69,8 +69,7 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 *Old.St Labs* `Jun 2025 – Present`  
 - Developing modern web applications using full-stack technologies. Contributing to scalable solutions with cloud-native architecture and database optimization.
 
-**Stack:**  
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma,aws,dynamodb,postgres" height="32" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma,aws,dynamodb,postgres" height="32" />
 
 ---
 
@@ -86,8 +85,7 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 - Designed and implemented CI/CD pipelines using GitHub Actions to streamline development and deployment workflows.  
 - Ensured smooth transition and minimal downtime during migration through thorough testing and rollback strategies.
 
-**Stack:**  
-<img src="https://skillicons.dev/icons?i=linux,githubactions,vercel,nginx" height="32" />
+  <img src="https://skillicons.dev/icons?i=linux,githubactions,vercel,nginx" height="32" />
 
 ---
 
@@ -102,23 +100,20 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 - **Webmaster**  
   `Jul 2024 – Present`  
   - Architect and deploy cloud-based infrastructure using Docker, AWS, and CI/CD pipelines. Manage project development lifecycles with Kanban methodology and enforce comprehensive DevSecOps practices.
-
-  **Stack:**  
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,gitlab" height="32" />
+    
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,gitlab" height="32" />
 
 - **Web Developer**  
   `Jun 2024 – Jul 2024`  
   - Built full-stack applications with Nuxt3, Express.js, and MongoDB. Focused on security implementation and deployment efficiency optimization.
-
-  **Stack:**  
-  <img src="https://skillicons.dev/icons?i=nuxtjs,express,mongodb,nodejs" height="32" />
+    
+    <img src="https://skillicons.dev/icons?i=nuxtjs,express,mongodb,nodejs" height="32" />
 
 - **Frontend Developer Apprentice**  
   `Jan 2024 – Jun 2024`  
   - Contributed to modern web projects using Vue.js and Nuxt3, emphasizing responsive design and user experience optimization.
-
-  **Stack:**  
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,css" height="32" />
+    
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,css" height="32" />
 
 ---
 
@@ -131,8 +126,7 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 *ADNU Game Development Camp* `Jun 2024 – Jul 2024`  
 - Led development of core gameplay systems using Unreal Engine. Coordinated agile sprints and iterative design processes.
 
-**Stack:**  
-<img src="https://skillicons.dev/icons?i=unreal,cpp,jira" height="32" />
+  <img src="https://skillicons.dev/icons?i=unreal,cpp,jira" height="32" />
 
 ---
 
@@ -144,9 +138,8 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 **Customer Service Agent**  
 *Bell Canada (Quantrics Enterprises)* `May 2022 – Present`  
 - Delivered exceptional service in high-volume environment. Achieved 4x Bell All Star awards while maintaining dual chat operations and complex issue resolution.
-
-**Stack:**  
-<img src="https://skillicons.dev/icons?i=salesforce,windows" height="32" /> 
+ 
+  <img src="https://skillicons.dev/icons?i=salesforce,windows" height="32" /> 
 
 ---
 
