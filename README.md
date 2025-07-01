@@ -60,60 +60,93 @@ Building secure, scalable digital solutions with a focus on **DevSecOps**, **ful
 
 ## Professional Experience
 
-**Software Developer Intern** @ *Old.St Labs* `Jun 2025 – Present`  
-Developing modern web applications using full-stack technologies. Contributing to scalable solutions with cloud-native architecture and database optimization.
+<!-- Old.St Labs -->
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHoPlTQknqyhg/company-logo_100_100/company-logo_100_100/0/1630577101241?e=1756944000&v=beta&t=GwJiS7rov6oDUdUhDLWwPp420Twcr9-GZa2dCX45fA0" alt="Old.St Labs logo" height="40" align="left" style="margin-right:12px;" />
+</p>
 
-**Tech Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![AWS DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Software Developer Intern**  
+*Old.St Labs* `Jun 2025 – Present`  
+- Developing modern web applications using full-stack technologies. Contributing to scalable solutions with cloud-native architecture and database optimization.
 
-**Webmaster** @ *ThePILLARS Publication* `Jul 2024 – Present`  
-Architect and deploy cloud-based infrastructure using Docker, AWS, and CI/CD pipelines. Manage project development lifecycles with Kanban methodology and enforce comprehensive DevSecOps practices.
+**Stack:**  
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma,aws,dynamodb,postgres" height="32" />
 
-**Tech Stack:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+---
 
-**Web Developer** @ *ThePILLARS Publication* `Jun 2024 – Jul 2024`  
-Built full-stack applications with Nuxt3, Express.js, and MongoDB. Focused on security implementation and deployment efficiency optimization.
+<!-- Detken Development -->
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFLrOFvm8fjGA/company-logo_100_100/B4DZbOqiisGUAQ-/0/1747223980637/detken_development_logo?e=1756944000&v=beta&t=4IZhI5DsnTV-UT1A0qwWqw4yY0NeJ4C_yBvM2kTmqMM" alt="Detken Development logo" height="40" align="left" style="margin-right:12px;" />
+</p>
 
-**Tech Stack:**  
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**DevOps Engineer**  
+*Detken Development* `Apr 2025 – Present`  
+- Led the migration of a production website from Vercel to a self-hosted VPS, improving deployment control and cost efficiency.  
+- Set up and maintained server infrastructure, including system administration tasks such as package updates, security hardening, and uptime monitoring.  
+- Designed and implemented CI/CD pipelines using GitHub Actions to streamline development and deployment workflows.  
+- Ensured smooth transition and minimal downtime during migration through thorough testing and rollback strategies.
 
-**Frontend Developer Apprentice** @ *ThePILLARS Publication* `Jan 2024 – Jun 2024`  
-Contributed to modern web projects using Vue.js and Nuxt3, emphasizing responsive design and user experience optimization.
+**Stack:**  
+<img src="https://skillicons.dev/icons?i=linux,githubactions,vercel,nginx" height="32" />
 
-**Tech Stack:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-**Lead Game Programmer** @ *ADNU Game Development Camp* `Jun 2024 – Jul 2024`  
-Led development of core gameplay systems using Unreal Engine. Coordinated agile sprints and iterative design processes.
+<!-- ThePILLARS Publication -->
+<p align="left">
+  <img src="https://scontent.fcgy1-1.fna.fbcdn.net/v/t39.30808-6/327209768_698653471809865_614857984863438974_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG3s2P-_vd5TUFHxtF9BTX0lCpUAKAzm26UKlQAoDObbhNeKsGSeN6EfuK_43eV_7qnSFlZY7kgGaRMkJzZmqJ8&_nc_ohc=oGJ-zT1DMCkQ7kNvwHFyZPJ&_nc_oc=AdmB0j9KyrhnFB7HTp4bzpAI6uWZcXSQBurcBzUccoDlje_TQGTRuYLVdo2wQLLi8tE&_nc_zt=23&_nc_ht=scontent.fcgy1-1.fna&_nc_gid=2JZjNNrfwhPSL7NtTUH3Iw&oh=00_AfOVDL3IX15VMiOxhjgbbodDK97SY3RyHIv3jLQnpd3uoQ&oe=68697FE5" alt="ThePILLARS Publication logo" height="40" align="left" style="margin-right:12px;" />
+</p>
 
-**Tech Stack:**  
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+**ThePILLARS Publication**  
+`Jan 2024 - Present`
 
-**Customer Service Agent** @ *Bell Canada (Quantrics Enterprises)* `May 2022 – Present`  
-Delivered exceptional service in high-volume environment. Achieved 4x Bell All Star awards while maintaining dual chat operations and complex issue resolution.
+- **Webmaster**  
+  `Jul 2024 – Present`  
+  - Architect and deploy cloud-based infrastructure using Docker, AWS, and CI/CD pipelines. Manage project development lifecycles with Kanban methodology and enforce comprehensive DevSecOps practices.
 
-**Tech Stack:**  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  **Stack:**  
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,gitlab" height="32" />
+
+- **Web Developer**  
+  `Jun 2024 – Jul 2024`  
+  - Built full-stack applications with Nuxt3, Express.js, and MongoDB. Focused on security implementation and deployment efficiency optimization.
+
+  **Stack:**  
+  <img src="https://skillicons.dev/icons?i=nuxtjs,express,mongodb,nodejs" height="32" />
+
+- **Frontend Developer Apprentice**  
+  `Jan 2024 – Jun 2024`  
+  - Contributed to modern web projects using Vue.js and Nuxt3, emphasizing responsive design and user experience optimization.
+
+  **Stack:**  
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,css" height="32" />
+
+---
+
+<!-- ADNU Game Development Camp -->
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/C510BAQHaDiVnVlNd7A/company-logo_100_100/company-logo_100_100/0/1631380960338?e=1756944000&v=beta&t=hIrVrMc_K3t-39jGRVXK8NkdEXMWUVsXItO4tME9nww" alt="ADNU Game Development Camp logo" height="40" align="left" style="margin-right:12px;" />
+</p>
+
+**Lead Game Programmer**  
+*ADNU Game Development Camp* `Jun 2024 – Jul 2024`  
+- Led development of core gameplay systems using Unreal Engine. Coordinated agile sprints and iterative design processes.
+
+**Stack:**  
+<img src="https://skillicons.dev/icons?i=unreal,cpp,jira" height="32" />
+
+---
+
+<!-- Quantrics (Bell Canada) -->
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQFs6df-gvx9xQ/company-logo_100_100/company-logo_100_100/0/1720070241724/quantrics_logo?e=1756944000&v=beta&t=ITqNyNYxXFpfqs_NGjZQPSwlQgsH0Ee3otFkLwd8LaU" alt="Quantrics (Bell Canada) logo" height="40" align="left" style="margin-right:12px;" />
+</p>
+
+**Customer Service Agent**  
+*Bell Canada (Quantrics Enterprises)* `May 2022 – Present`  
+- Delivered exceptional service in high-volume environment. Achieved 4x Bell All Star awards while maintaining dual chat operations and complex issue resolution.
+
+**Stack:**  
+<img src="https://skillicons.dev/icons?i=salesforce,windows" height="32" /> 
 
 ---
 
@@ -123,6 +156,8 @@ Delivered exceptional service in high-volume environment. Achieved 4x Bell All S
 
 [![Live Demo](https://img.shields.io/badge/Live-merchtrack.tech-4285F4?style=flat-square)](https://merchtrack.tech)
 [![Repository](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square)](https://github.com/gab-cat/merchtrack)
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/5640ac5f-f89f-4d3a-ab21-b440e13917a2" />
+
 
 > Launched March 2025 | **2,750+ users** in first week
 
@@ -279,255 +314,275 @@ A comprehensive university-focused e-commerce platform that revolutionized campu
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <div align="center">
 
-### 🥇 Competition Excellence
-![Cybersecurity Badge](https://img.shields.io/badge/🛡️_Cybersecurity-Champion-gold?style=for-the-badge&labelColor=1a1a2e&color=ffd700)
-![National Ranking](https://img.shields.io/badge/🏅_National_Rank-5th_out_of_80-orange?style=for-the-badge&labelColor=1a1a2e&color=ff6b35)
-![Performance Award](https://img.shields.io/badge/⭐_Bell_All_Star-4x_Winner-blue?style=for-the-badge&labelColor=1a1a2e&color=4285f4)
+![Achievement Summary](https://img.shields.io/badge/Achievements-3_Major_Wins-gold?style=for-the-badge&logo=trophy&labelColor=0d1117&color=ffd700)
 
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://img.shields.io/badge/🏆-CHAMPION-gold?style=for-the-badge&labelColor=0d1117&color=ffd700" />
-        <h4>3rd Annual Regional HackForGov CTF</h4>
-        <p><strong>DICT - Region V</strong><br/>September 2024</p>
-        <p>🥇 Led team to victory in cybersecurity competition<br/>🔐 Expertise in web exploitation & incident response</p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://img.shields.io/badge/🥉-5th_PLACE-orange?style=for-the-badge&labelColor=0d1117&color=ff6b35" />
-        <h4>3rd National HackForGov CTF</h4>
-        <p><strong>DICT - CERT/NCERT</strong><br/>October 2024</p>
-        <p>🏅 Ranked 5th out of 80 participants nationwide<br/>🛡️ Advanced cybersecurity problem-solving</p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://img.shields.io/badge/⭐-4x_ALL_STAR-blue?style=for-the-badge&labelColor=0d1117&color=4285f4" />
-        <h4>Bell All Star Winner</h4>
-        <p><strong>Bell Canada</strong><br/>2022-2024</p>
-        <p>🌟 Top 10% performance across 4 periods<br/>💼 Excellence while maintaining full-time studies</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🏆 Regional Champion - HackForGov CTF Region V
+**DICT - Region V** • *September 2024*
 
-<div align="center">
+Led a team to victory in the premier cybersecurity competition for Region V, demonstrating advanced problem-solving capabilities and technical leadership. The competition focused on real-world security scenarios including web application penetration testing, digital forensics, and incident response.
 
-### 📊 Achievement Impact Visualization
-```
-Competition Performance:
-████████████████████████████████████████ 100% Regional Champion
-████████████████████████████████████     94%  National Top 5
-████████████████████████████████████████ 100% Consistent Excellence
+**Skills Demonstrated:**
+- Web application security and exploitation techniques
+- Network forensics and incident response protocols
+- Team coordination under high-pressure environments
+- Advanced problem-solving and critical thinking
 
-Skills Demonstrated:
-🔐 Cybersecurity     ████████████████████████████████████████ 95%
-💻 Problem Solving   ████████████████████████████████████████ 98%
-👥 Team Leadership   ████████████████████████████████████████ 92%
-⚡ Performance       ████████████████████████████████████████ 96%
-```
-
-</div>
+![Web Security](https://img.shields.io/badge/Web_Security-Advanced-red?style=flat-square&logo=shield-alt&logoColor=white)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-Proficient-blue?style=flat-square&logo=search&logoColor=white)
+![Leadership](https://img.shields.io/badge/Team_Leadership-Proven-green?style=flat-square&logo=users&logoColor=white)
 
 ---
 
-## 📚 Certifications & Learning Journey
+### 🥉 5th Place National - HackForGov CTF
+**DICT - CERT/NCERT** • *October 2024*
 
-<div align="center">
+Achieved 5th place out of 80 participants nationwide in the most prestigious cybersecurity competition in the Philippines. Competed against top university teams and security professionals, showcasing expertise in multiple cybersecurity domains.
 
-![Learning Progress](https://img.shields.io/badge/🎓_Certifications-6_Completed-success?style=for-the-badge&labelColor=0d1117&color=00d084)
-![Skill Level](https://img.shields.io/badge/💡_Expertise_Level-Advanced-brightgreen?style=for-the-badge&labelColor=0d1117&color=32cd32)
+**Technical Areas Covered:**
+- Windows system forensics and malware analysis
+- Web application vulnerability assessment
+- Network traffic analysis and intrusion detection
+- Cryptographic challenges and reverse engineering
 
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>🏢 Provider</th>
-      <th>📜 Certification</th>
-      <th>📅 Completed</th>
-      <th>🎯 Focus Area</th>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></td>
-      <td><strong>GitHub Foundations</strong></td>
-      <td>Dec 2024</td>
-      <td>🔧 DevOps</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
-      <td><strong>MongoDB Node.js Developer Path</strong></td>
-      <td>Dec 2024</td>
-      <td>🗄️ Database</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" /></td>
-      <td><strong>Master Nuxt 3: Full-Stack Guide</strong></td>
-      <td>Dec 2024</td>
-      <td>🌐 Frontend</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></td>
-      <td><strong>Docker for DevOps - Hands On</strong></td>
-      <td>2024</td>
-      <td>☁️ Cloud</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" /></td>
-      <td><strong>Unreal Engine 5: Soulslike Combat</strong></td>
-      <td>2024</td>
-      <td>🎮 Game Dev</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Microsoft-0078D6?style=flat-square&logo=microsoft&logoColor=white" /></td>
-      <td><strong>Power BI Advanced Analytics</strong></td>
-      <td>2024</td>
-      <td>📊 Analytics</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-
-### 🎯 Certification Categories
-![DevOps](https://img.shields.io/badge/DevOps-33%25-blue?style=flat-square&logo=docker&logoColor=white)
-![Development](https://img.shields.io/badge/Development-33%25-green?style=flat-square&logo=code&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-17%25-purple?style=flat-square&logo=chart-bar&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Dev-17%25-red?style=flat-square&logo=gamepad&logoColor=white)
-
-</div>
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Expert-orange?style=flat-square&logo=bug&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-Advanced-purple?style=flat-square&logo=network-wired&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-Proficient-yellow?style=flat-square&logo=key&logoColor=black)
 
 ---
 
-## 🚀 Current Focus & Innovation
+### ⭐ 4x Bell All Star Winner
+**Bell Canada** • *2022-2024 (Periods 13-16)*
 
-<div align="center">
+Consistently recognized in the top 10% of customer service representatives across four consecutive evaluation periods while maintaining full-time university studies. Demonstrated exceptional multitasking abilities and customer relationship management.
 
-![Innovation Status](https://img.shields.io/badge/Status-🔥_Innovating-red?style=for-the-badge&labelColor=0d1117&animation=pulse)
-![Projects Active](https://img.shields.io/badge/Active_Projects-4-blue?style=for-the-badge&labelColor=0d1117)
+**Professional Skills Developed:**
+- High-volume customer service excellence (dual chat operations)
+- Technical troubleshooting for telecommunications services
+- Conflict resolution and customer retention strategies
+- Performance consistency under demanding workloads
 
-</div>
-
-### 🎯 Active Development Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/🛒_MerchTrack-Scaling_Platform-success?style=for-the-badge&labelColor=0d1117&color=00d084" />
-        <h4>🚀 Scaling MerchTrack</h4>
-        <p>Implementing advanced analytics and AI-powered recommendations</p>
-        <div>
-          <img src="https://img.shields.io/badge/Progress-75%25-success?style=flat-square" />
-          <img src="https://img.shields.io/badge/AI_Integration-Active-blue?style=flat-square" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/🔐_Security_Research-Frameworks-orange?style=for-the-badge&labelColor=0d1117&color=ff6b35" />
-        <h4>🛡️ Security Research</h4>
-        <p>Developing automated security testing frameworks</p>
-        <div>
-          <img src="https://img.shields.io/badge/Progress-60%25-warning?style=flat-square" />
-          <img src="https://img.shields.io/badge/Automation-Focus-red?style=flat-square" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/☁️_Cloud_Architecture-Multi_Region-blue?style=for-the-badge&labelColor=0d1117&color=4285f4" />
-        <h4>🏗️ Cloud Architecture</h4>
-        <p>Building multi-region, fault-tolerant systems</p>
-        <div>
-          <img src="https://img.shields.io/badge/Progress-45%25-info?style=flat-square" />
-          <img src="https://img.shields.io/badge/AWS-Primary-orange?style=flat-square" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/📱_Mobile_Innovation-Cross_Platform-purple?style=for-the-badge&labelColor=0d1117&color=8b5cf6" />
-        <h4>🔥 Mobile Innovation</h4>
-        <p>Creating next-generation cross-platform applications</p>
-        <div>
-          <img src="https://img.shields.io/badge/Progress-30%25-secondary?style=flat-square" />
-          <img src="https://img.shields.io/badge/React_Native-Core-cyan?style=flat-square" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🌱 Learning & Growth Path
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🤖 AI/ML Integration] --> B[🔐 Advanced Security]
-    B --> C[📊 Data Engineering]
-    C --> D[🎨 Design Systems]
-    D --> E[🚀 Innovation]
-    
-    style A fill:#ff6b35
-    style B fill:#4285f4
-    style C fill:#00d084
-    style D fill:#8b5cf6
-    style E fill:#ffd700
-```
-
-![AI/ML](https://img.shields.io/badge/🤖_AI%2FML_Integration-Learning-orange?style=flat-square)
-![Security](https://img.shields.io/badge/🔐_Advanced_Security-Researching-blue?style=flat-square)
-![Data](https://img.shields.io/badge/📊_Data_Engineering-Exploring-green?style=flat-square)
-![Design](https://img.shields.io/badge/🎨_Design_Systems-Crafting-purple?style=flat-square)
-
-</div>
+![Customer Service](https://img.shields.io/badge/Customer_Service-Expert-blue?style=flat-square&logo=headset&logoColor=white)
+![Multitasking](https://img.shields.io/badge/Multitasking-Advanced-green?style=flat-square&logo=layers&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-Excellent-cyan?style=flat-square&logo=comment-dots&logoColor=white)
 
 ---
 
-## 🤝 Connect & Collaborate
+## Certifications & Professional Development
 
 <div align="center">
 
-![Collaboration Status](https://img.shields.io/badge/Status-🌟_Open_to_Collaborate-success?style=for-the-badge&labelColor=0d1117&color=00d084)
-
-### 💡 Let's Build Something Amazing Together
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/💻-Innovative_Projects-blue?style=for-the-badge&labelColor=0d1117&color=4285f4" />
-      <p>Cutting-edge solutions</p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🔐-DevSecOps_Solutions-orange?style=for-the-badge&labelColor=0d1117&color=ff6b35" />
-      <p>Security-first development</p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🚀-Tech_Discussions-green?style=for-the-badge&labelColor=0d1117&color=00d084" />
-      <p>Latest technologies</p>
-    </td>
-  </tr>
-</table>
-
-### 📬 Professional Networks
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcatimbang)
-[![Email](https://img.shields.io/badge/Email-Let's_Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catimbanggabriel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gab-cat)
-
-### 🌐 Response Time
-![Response Time](https://img.shields.io/badge/📧_Email-Within_24hrs-success?style=flat-square&labelColor=0d1117)
-![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Same_Day-blue?style=flat-square&labelColor=0d1117)
-![Availability](https://img.shields.io/badge/🕐_Best_Time-9AM_-_6PM_PHT-info?style=flat-square&labelColor=0d1117)
+![Total Certifications](https://img.shields.io/badge/Professional_Development-6_Certifications-success?style=for-the-badge&logo=certificate&labelColor=0d1117&color=00d084)
 
 </div>
+
+### <img src="https://skillicons.dev/icons?i=github" height="24" alt="github logo" /> **GitHub Foundations Certification**
+**GitHub** • *December 2024*
+
+Comprehensive certification covering GitHub's core features, Git version control, and collaborative development workflows. Mastered repository management, branching strategies, and CI/CD integration with GitHub Actions.
+
+**Technologies Mastered:**
+- Git version control and advanced branching strategies
+- GitHub Actions for automated workflows and deployments
+- Repository security, vulnerability scanning, and dependency management
+- Collaborative development practices and code review processes
+
+![Git](https://img.shields.io/badge/Git-Expert-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Proficient-2088ff?style=flat-square&logo=github-actions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps_Practices-Advanced-orange?style=flat-square&logo=infinity&logoColor=white)
 
 ---
 
+### <img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="mongodb logo" /> **MongoDB Node.js Developer Path**
+**MongoDB University** • *December 2024*
+
+Intensive program covering MongoDB database design, aggregation frameworks, and Node.js integration. Gained expertise in NoSQL database architecture, performance optimization, and scalable data modeling.
+
+**Technical Skills Acquired:**
+- Advanced MongoDB query optimization and indexing strategies
+- Aggregation pipeline design for complex data transformations
+- Node.js driver integration and connection pool management
+- Database security, authentication, and role-based access control
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-Proficient-blue?style=flat-square&logo=database&logoColor=white)
+
+---
+
+### <img src="https://skillicons.dev/icons?i=nuxtjs" height="24" alt="nuxtjs logo" /> **Master Nuxt 3: Full-Stack Complete Guide**
+**Udemy** • *December 2024*
+
+Comprehensive course covering Nuxt 3's latest features, server-side rendering, and full-stack development patterns. Learned advanced Vue.js concepts, state management, and modern deployment strategies.
+
+**Framework Expertise Gained:**
+- Nuxt 3 composition API and auto-imports system
+- Server-side rendering (SSR) and static site generation (SSG)
+- Advanced state management with Pinia
+- API routes, middleware, and authentication integration
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-Expert-00dc82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
+![SSR/SSG](https://img.shields.io/badge/SSR%2FSSG-Proficient-green?style=flat-square&logo=nuxt.js&logoColor=white)
+
+---
+
+### <img src="https://skillicons.dev/icons?i=docker" height="24" alt="docker logo" /> **Docker for DevOps - Hands On**
+**Udemy** • *2024*
+
+Practical Docker training focusing on containerization, orchestration, and DevOps implementation. Mastered container lifecycle management, multi-stage builds, and production deployment strategies.
+
+**Containerization Skills:**
+- Docker container creation, optimization, and security hardening
+- Multi-stage builds for production-ready images
+- Docker Compose for multi-container applications
+- Container orchestration and deployment automation
+
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Containerization](https://img.shields.io/badge/Containerization-Advanced-blue?style=flat-square&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps_Automation-Proficient-orange?style=flat-square&logo=infinity&logoColor=white)
+
+---
+
+### <img src="https://skillicons.dev/icons?i=unreal" height="24" alt="unrealengine logo" /> **Unreal Engine 5: Soulslike Melee Combat System**
+**Udemy** • *2024*
+
+Advanced game development course focusing on complex combat mechanics, animation systems, and gameplay programming. Developed expertise in Blueprint visual scripting and C++ integration for game systems.
+
+**Game Development Proficiency:**
+- Complex combat system design and implementation
+- Animation Blueprint creation and state machine management
+- AI behavior programming and pathfinding systems
+- Performance optimization for real-time 3D applications
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-Advanced-0e1128?style=flat-square&logo=unreal-engine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Proficient-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Game Development](https://img.shields.io/badge/Game_Development-Intermediate-purple?style=flat-square&logo=gamepad&logoColor=white)
+
+---
+
+### <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="24" alt="googlecloud logo" /> **Power BI Advanced Analytics**
+**Microsoft** • *2024*
+
+Data analytics and business intelligence certification covering advanced DAX functions, data modeling, and interactive dashboard creation. Gained expertise in connecting multiple data sources and creating comprehensive business reports.
+
+**Analytics Capabilities:**
+- Advanced DAX formula creation and optimization
+- Complex data modeling and relationship management
+- Interactive dashboard design and user experience optimization
+- Data source integration and automated refresh configurations
+
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-f2c811?style=flat-square&logo=power-bi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-Advanced-blue?style=flat-square&logo=chart-bar&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Proficient-green?style=flat-square&logo=chart-line&logoColor=white)
+
+## Current Focus & Innovation
+
 <div align="center">
 
-![Inspirational Quote](https://img.shields.io/badge/💭-"Building_the_future,_one_commit_at_a_time"-lightgrey?style=for-the-badge&labelColor=0d1117)
+![Development Status](https://img.shields.io/badge/Status-Actively_Innovating-success?style=for-the-badge&logo=rocket&labelColor=0d1117&color=00d084)
 
 </div>
+
+### 🚀 MerchTrack Platform Evolution
+
+Leading the development of next-generation features for MerchTrack, focusing on AI-powered analytics and machine learning recommendations. Implementing advanced data processing pipelines and real-time user behavior analysis to enhance the e-commerce experience.
+
+**Technologies in Development:**
+- Machine learning recommendation engines using Python and TensorFlow
+- Real-time analytics with Apache Kafka and Redis streams
+- Advanced A/B testing frameworks for feature optimization
+- Microservices architecture expansion with Node.js and Docker
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-orange?style=flat-square&logo=brain&logoColor=white)
+![Analytics](https://img.shields.io/badge/Real--time_Analytics-Implementing-blue?style=flat-square&logo=chart-pie&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Expanding-green?style=flat-square&logo=network-wired&logoColor=white)
+
+---
+
+### 🛡️ Security Research & Automation
+
+Developing comprehensive security testing frameworks and automated vulnerability assessment tools. Creating custom penetration testing scripts and security monitoring systems for continuous security validation.
+
+**Research Areas:**
+- Automated security scanning integration with CI/CD pipelines
+- Custom exploit development for educational and testing purposes
+- Container security hardening and runtime protection
+- Zero-trust architecture implementation patterns
+
+![Security Automation](https://img.shields.io/badge/Security_Automation-Developing-red?style=flat-square&logo=shield-check&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Pen_Testing-Advanced-orange?style=flat-square&logo=bug&logoColor=white)
+![CI/CD Security](https://img.shields.io/badge/CI%2FCD_Security-Implementing-blue?style=flat-square&logo=shield&logoColor=white)
+
+---
+
+### ☁️ Multi-Region Cloud Architecture
+
+Designing and implementing fault-tolerant, multi-region cloud infrastructure using AWS services. Focus on high availability, disaster recovery, and global content delivery optimization.
+
+**Infrastructure Components:**
+- AWS ECS/EKS orchestration for containerized applications
+- Multi-region database replication with automated failover
+- CDN optimization and edge computing implementations
+- Infrastructure as Code using Terraform and CloudFormation
+
+![AWS](https://img.shields.io/badge/AWS-Advanced-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Learning-623ce4?style=flat-square&logo=terraform&logoColor=white)
+![High Availability](https://img.shields.io/badge/High_Availability-Designing-green?style=flat-square&logo=server&logoColor=white)
+
+---
+
+### 📱 Next-Generation Mobile Development
+**Current Progress:** ![30%](https://progress-bar.dev/30?color=8b5cf6&width=200)
+
+Exploring cutting-edge mobile development approaches including React Native's new architecture, cross-platform optimization, and progressive web app (PWA) technologies for enhanced mobile experiences.
+
+**Mobile Innovation Focus:**
+- React Native's New Architecture (Fabric and TurboModules)
+- Progressive Web App development with advanced caching strategies
+- Cross-platform state management and offline-first approaches
+- Mobile-specific security implementations and biometric integration
+
+![React Native](https://img.shields.io/badge/React_Native-Advanced-61dafb?style=flat-square&logo=react&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-Learning-purple?style=flat-square&logo=pwa&logoColor=white)
+![Mobile Security](https://img.shields.io/badge/Mobile_Security-Exploring-orange?style=flat-square&logo=mobile&logoColor=white)
+
+---
+
+## Connect & Collaborate
+
+<div align="center">
+
+![Collaboration Status](https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=for-the-badge&logo=handshake&labelColor=0d1117&color=00d084)
+
+**Currently seeking opportunities in:** Innovative Full-Stack Projects • DevSecOps Solutions • Cybersecurity Research • Cloud Architecture Design
+
+</div>
+
+### Professional Communication Channels
+
+**Primary Contact:** Direct and professional communication for project collaborations, technical discussions, and career opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcatimbang)  
+*Best for professional inquiries, networking, and career-related discussions*
+
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catimbanggabriel@gmail.com)  
+*Preferred for detailed project discussions and formal communications*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Technical_Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gab-cat)  
+*For code reviews, technical contributions, and open-source collaborations*
+
+### Response & Availability
+
+**Response Times:** Email within 24 hours • LinkedIn same day • GitHub issues within 48 hours  
+**Best Contact Hours:** 9:00 AM - 6:00 PM Philippine Time (GMT+8)  
+**Project Availability:** Currently available for freelance projects and consulting opportunities
+
+![Timezone](https://img.shields.io/badge/Timezone-Philippine_Time_(GMT%2B8)-info?style=flat-square&logo=clock&logoColor=white)
+![Availability](https://img.shields.io/badge/Project_Availability-Open-success?style=flat-square&logo=calendar&logoColor=white)
+![Response](https://img.shields.io/badge/Response_Time-Within_24hrs-blue?style=flat-square&logo=message-circle&logoColor=white)
