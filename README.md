@@ -222,6 +222,8 @@ Shown under codenames. The code is private, and client names are left out.
 - **Champion**, AI.DEAS for Impact (Stormwatch), 2025
 - **1st runner-up**, Idea2Startup+ Bloomberg Challenge, ₱100,000 seed grant (Stormwatch), 2025
 - **5th of 30+ teams**, SEEN 2025 CTF
+- **17th place**, University Capture The Flag 2025, Trend Micro Philippines
+- **5th highest scorer**, 3rd National HackForGov CTF, 2024
 - **Champion**, Regional HackForGov CTF Region V, 2024
 - **4× Bell All-Star**, top 10% of performers, Bell Canada via Quantrics, 2022 – 2024
 
